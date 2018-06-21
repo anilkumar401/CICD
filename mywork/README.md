@@ -1,2 +1,2 @@
 # apache-configuration-ci
-Version1.1 
+Version1.2 
